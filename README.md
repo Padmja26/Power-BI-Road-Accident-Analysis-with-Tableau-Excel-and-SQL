@@ -27,8 +27,7 @@ This project aims to create a comprehensive Road Accident Dashboard for the year
 This project involves data analysis and visualization using various tools such as Power BI, Tableau, Excel, and SQL. The dataset for road accidents in the years 2021 and 2022 is meticulously analyzed to create a comprehensive dashboard. The dashboard provides interactive visualizations and detailed insights into casualty trends, casualty distribution by various factors such as location, vehicle type, accident severity, and more.
 
 ### Contributors:
-- [Your Name]
-- [Other Contributors]
+- Padmja Salvi
 
 ### How to Use:
 1. Download or clone the repository.
@@ -36,8 +35,3 @@ This project involves data analysis and visualization using various tools such a
 3. Connect the project to the provided dataset.
 4. Explore the dashboard to gain insights into road accident analysis for the years 2021 and 2022.
 
-### License:
-This project is licensed under the [License Name] License. See the LICENSE file for details.
-
-### Acknowledgements:
-Special thanks to [Acknowledged Individuals/Groups] for their contributions and support in completing this project.
